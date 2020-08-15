@@ -1,9 +1,5 @@
 Hi there 👋 I am Prajesh Srivastava
 
-<!--
-**Prajesh-Srivastava/Prajesh-srivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 • 🔭 I’m currently working on SoftwareEngineering Projects and Machine Learning.
 • 🌱 I’m currently learning software engineering
