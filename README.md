@@ -31,6 +31,7 @@ Hi there 👋 I am Prajesh Srivastava
 <a href="https://instagram.com/the_prajesh_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="the_prajesh_" height="30" width="40" /></a>
 <a href="https://medium.com/iamprajesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="iamprajesh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/_181500466" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="_181500466" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prajesh_srivastava" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="prajesh_srivastava" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,6 +42,5 @@ Hi there 👋 I am Prajesh Srivastava
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajesh-srivastava&show_icons=true&locale=en" alt="prajesh-srivastava" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajesh-srivastava&" alt="prajesh-srivastava" /></p>
-
 
 
