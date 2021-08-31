@@ -18,9 +18,9 @@ Hi there 👋 I am Prajesh Srivastava
 
 - 📝 I have written articles on [https://cppsecrets.com/user/index.php?uid=5440](https://cppsecrets.com/user/index.php?uid=5440)
 
-- 💬 Ask me about **Python Development , Software Development , Machine Learning ,Data Science**
+- 💬 Ask me about **Python Development , Software Development , Machine Learning , Data Science**
 
-- 📫 How to reach me **prajesh.srivastava_cs18@gla.ac.in**
+- 📫 How to reach me **prajeshsrivastava786@gmail.com**
 
 - ⚡ Fun fact **Crazy about new Technologies.**
 
