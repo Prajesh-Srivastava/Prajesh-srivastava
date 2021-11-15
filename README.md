@@ -2,21 +2,17 @@
 
 ![Simple Technology LinkedIn Banner](https://user-images.githubusercontent.com/47695045/98431249-9aadb700-20d9-11eb-8d1f-97ad248fb4a3.jpg)
 
+[![GitHub prajesh-srivastava](https://img.shields.io/github/followers/prajesh-srivastava?label=follow&style=social)](https://github.com/prajesh-srivastava)
+[![Linkedin: Prajesh Srivastava](https://img.shields.io/badge/-PrajeshSrivastava-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajeshsrivastava/)](https://www.linkedin.com/in/prajeshsrivastava/)
+[![Twitter: Prajesh Srivastava](https://img.shields.io/twitter/follow/the_prajesh_?logo=twitter&color=0e75b6&style=flat)](https://twitter.com/the_prajesh_)
+[![Instagram: Prajesh Srivastava](https://github.com/wle8300/instagram-logo/blob/master/logo.svg)](https://www.instagram.com/the_prajesh_)
+<img src="https://komarev.com/ghpvc/?username=prajesh-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="prajesh-srivastava" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajesh-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="prajesh-srivastava" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajesh-srivastava" alt="prajesh-srivastava" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/the_prajesh_" target="blank"><img src="https://img.shields.io/twitter/follow/the_prajesh_?logo=twitter&style=for-the-badge" alt="the_prajesh_" /></a> </p>
-
-- 🌱 I’m currently learning **software engineering.**
-
-- 📝 I have written articles on [https://cppsecrets.com/user/index.php?uid=5440](https://cppsecrets.com/user/index.php?uid=5440)
+- 🌱 I’m currently working as **Software Engineer.**
 
 - 💬 Ask me about **Python Development , Software Development , Machine Learning , Data Science**
-
-- 📫 How to reach me **prajeshsrivastava786@gmail.com**
 
 - ⚡ Fun fact **Crazy about new Technologies.**
 
