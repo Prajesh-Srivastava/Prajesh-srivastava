@@ -12,7 +12,8 @@ Hi, my name is Prajesh Srivastava. I am a 4<sup>th</sup> Year Student at GLA Uni
 ```Python
 prajesh = {
 	pronouns: [he or him],
-	code: [Python, C, JavaScript],
+	language: [English, Hindi]
+	coding language: [Python, C, JavaScript],
 	tools: [Intellij, Pycharm, VS Code, Andriod Studio, Jira],
 	techCommunities: [
                     Microsoft Learn Student Ambassador,
