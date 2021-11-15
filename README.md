@@ -1,12 +1,8 @@
-Hi there 👋 I am Prajesh Srivastava
+**Prajesh Srivastava here**<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 ![Simple Technology LinkedIn Banner](https://user-images.githubusercontent.com/47695045/98431249-9aadb700-20d9-11eb-8d1f-97ad248fb4a3.jpg)
 
 
-
-
-<h1 align="center">Working Mode : ON</h1>
-<h3 align="center">Technophile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajesh-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="prajesh-srivastava" /> </p>
 
@@ -35,14 +31,9 @@ Hi there 👋 I am Prajesh Srivastava
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajesh-srivastava&show_icons=true&locale=en&layout=compact" alt="prajesh-srivastava" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajesh-srivastava&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="prajesh-srivastava" />
+</p>
 
-
-
-[![Prajesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajesh-srivastava&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/prajesh-srivastava/github-readme-stats)
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajesh-srivastava&" alt="prajesh-srivastava" /></p>
-
+![Prajesh Srivastava's github stats](https://github-readme-stats.vercel.app/api?username=prajesh-srivastava&show_icons=true&theme=dracula)
+![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=prajesh-srivastava&theme=tokyonight)
 
