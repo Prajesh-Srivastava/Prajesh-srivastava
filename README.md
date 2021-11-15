@@ -27,7 +27,7 @@ prajesh = {
 	askMeAbout: [Software Development, Python Development]
 }
 ```
-## Love to know about you
+## Love to know about you...
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more, join me at..</b> :)
 	
 [![GitHub prajesh-srivastava](https://img.shields.io/github/followers/prajesh-srivastava?label=follow&style=social)](https://github.com/prajesh-srivastava)
