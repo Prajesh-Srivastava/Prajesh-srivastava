@@ -1,4 +1,4 @@
-**Prajesh Srivastava here**<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+## Hey! I am Prajesh Srivastava.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 ![Simple Technology LinkedIn Banner](https://user-images.githubusercontent.com/47695045/98431249-9aadb700-20d9-11eb-8d1f-97ad248fb4a3.jpg)
 
