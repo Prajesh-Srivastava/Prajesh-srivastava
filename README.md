@@ -21,7 +21,7 @@ prajesh = {
                                Coding Block Ambassadors
 	],
         internships: [
-                   TPA intern at JUSPAY  --Present ,
+                   Developer intern at JUSPAY  --Present ,
                         Software Engineering Intern at Springworks,
                               Python Development Intern at Cppsecrects
         ],
