@@ -20,8 +20,8 @@ prajesh = {
                           President at Pi Club, GLAU,
                                Coding Block Ambassadors
 	],
-        internships: [
-                   Developer intern at JUSPAY  --Present ,
+        Experience: [
+                   Developer at JUSPAY  --Present ,
                         Software Engineering Intern at Springworks,
                               Python Development Intern at Cppsecrects
         ],
