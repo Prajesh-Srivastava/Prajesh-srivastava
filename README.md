@@ -1,7 +1,7 @@
 <h2> Hi <img src="https://user-images.githubusercontent.com/47695045/141738908-54f58465-27d5-4c9d-af00-1544f59acaaa.gif"height="32px" style="padding-top: 50px;"> , I'm Prajesh Srivastava</h2>
 
 
-Hi, my name is Prajesh Srivastava. I am a 4<sup>th</sup> Year Student at GLA University, pursuing my Bachelor's Degree in Computer Science and Engineering. I like to code things from scratch, and enjoy bringing ideas to life in the browser.
+Hi, my name is Prajesh Srivastava. I am Software Engineer. I like to code things from scratch, and enjoy bringing ideas to life in the browser.
 
 <img src="https://komarev.com/ghpvc/?username=prajesh-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="prajesh-srivastava" />
 
