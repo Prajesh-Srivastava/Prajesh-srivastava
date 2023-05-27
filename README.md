@@ -21,8 +21,9 @@ prajesh = {
                                Coding Block Ambassadors
 	],
         Experience: [
-                   Developer at JUSPAY  --Present ,
-                        Software Engineering Intern at Springworks,
+		    Analyst at AlphaGrep  --Present ,
+                       Developer at JUSPAY,
+                          Software Engineering Intern at Springworks,
                               Python Development Intern at Cppsecrects
         ],
 	askMeAbout: [Software Development, Python Development]
