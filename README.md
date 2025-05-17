@@ -1,7 +1,7 @@
 <h2> Hi <img src="https://user-images.githubusercontent.com/47695045/141738908-54f58465-27d5-4c9d-af00-1544f59acaaa.gif"height="32px" style="padding-top: 50px;"> , I'm Prajesh Srivastava</h2>
 
 
-Hi, my name is Prajesh Srivastava. I am Software Engineer. I like to code things from scratch, and enjoy bringing ideas to life in the browser.
+Hi, my name is Prajesh Srivastava. I am Software Engineer in HFT. I like to code things from scratch, and enjoy bringing ideas to life in the browser.
 
 <img src="https://komarev.com/ghpvc/?username=prajesh-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="prajesh-srivastava" />
 
@@ -13,20 +13,21 @@ Hi, my name is Prajesh Srivastava. I am Software Engineer. I like to code things
 prajesh = {
 	pronouns: [he or him],
 	language: [English, Hindi]
-	coding language: [Python, C, JavaScript],
-	tools: [Intellij, Pycharm, VS Code, Andriod Studio, Jira],
+	
+        Experience: [
+		Software Enginner -- SquarePoint Capital,
+		mine ex list :😃{
+		   AlphaGrep Securities (HFT),
+                     JUSPAY (Finance),
+			SpringWorks (Produt)
+		}
+        ],
+	askMeAbout: [Software Development, Python Development],
 	techCommunities: [
                     Microsoft Learn Student Ambassador,
                           President at Pi Club, GLAU,
                                Coding Block Ambassadors
-	],
-        Experience: [
-		    Analyst at AlphaGrep  --Present ,
-                       Developer at JUSPAY,
-                          Software Engineering Intern at Springworks,
-                              Python Development Intern at Cppsecrects
-        ],
-	askMeAbout: [Software Development, Python Development]
+	]
 }
 ```
 ## Love to know about you...
