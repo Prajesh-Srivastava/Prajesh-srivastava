@@ -15,7 +15,7 @@ prajesh = {
 	language: [English, Hindi]
 	
         Experience: [
-		Software Enginner -- SquarePoint Capital,
+		Software Engineer -- SquarePoint Capital,
 		mine ex list :😃{
 		   AlphaGrep Securities (HFT),
                      JUSPAY (Finance),
